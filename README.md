@@ -24,6 +24,6 @@ This repository contains the implementation of a methodology that combines the F
 
 ## Graphical Representations
 
-- [Figure 1: Results of the adjoint method, Neural Networks (NN), and FEM.](InverseHeat_NN/a.png)
-- [Figure 2: Results of the adjoint method and FEM.](InverseHeat_NN/b.png)
-- [Figure 3: Loss and training for pre-trained model.](InverseHeat_NN/Figure_1.png)
+- [Figure 1: Results of the adjoint method, Neural Networks (NN), and FEM.](a.png)
+- [Figure 2: Results of the adjoint method and FEM.](b.png)
+- [Figure 3: Loss and training for pre-trained model.](Figure_1.png)
